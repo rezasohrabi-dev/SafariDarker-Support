@@ -1,6 +1,6 @@
-# SafariDarker Support
+# Darker Support
 
-Support site for the SafariDarker app (Mac, iPhone, iPad): https://rezasohrabi-dev.github.io/SafariDarker-Support/
+Support site for the Darker app (Mac, iPhone, iPad): https://rezasohrabi-dev.github.io/SafariDarker-Support/
 
 - [Support & FAQ](https://rezasohrabi-dev.github.io/SafariDarker-Support/)
 - [Privacy Policy](https://rezasohrabi-dev.github.io/SafariDarker-Support/privacy-policy.html)
